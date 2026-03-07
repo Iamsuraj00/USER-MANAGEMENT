@@ -213,6 +213,3 @@ Structuring Java web projects
 https://github.com/yourusername/UserManagement
 👨‍💻 Author
 
-Narendra Kumar
-
-Aspiring Java Backend Developer
