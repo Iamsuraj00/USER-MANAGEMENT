@@ -13,7 +13,7 @@ import com.xadmin.usermanagement.model.User;
 public class UserDAO {
 	private String jdbcURL = "jdbc:mysql://localhost:3306/userdb?useSSL=false&serverTimezone=UTC";
 	private String jdbcUsername = "root";
-	private String jdbcPassword = "";
+	private String jdbcPassword = "root";
 
 	private static final String INSERT_USERS_SQL = "INSERT INTO users" + "  (name, email, country) VALUES "
 			+ " (?, ?, ?);";
